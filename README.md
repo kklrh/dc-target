@@ -7,6 +7,8 @@ This isn’t just a small tweak — it’s a full UI rework with:
 🎨 **Customizable colors** – match it with your server’s theme easily  
 ↔️ **Horizontal scrolling/switching** – smoother & cleaner than the usual vertical layout  
 
+## [My Discord](https://discord.gg/gEwsEn7WYy)
+
 ## 📸 Preview
 🎥 [Watch Preview](https://r2.fivemanage.com/PEM73NUb284o5Jtrfftbn/Untitledvideo-MadewithClipchampedited.mp4)
 
