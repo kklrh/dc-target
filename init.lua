@@ -26,7 +26,7 @@ Config.PrimaryColor = "#fb2c2cff"
 Config.MaxDistance = 7.0
 
 -- Enable debug options
-Config.Debug = true
+Config.Debug = false
 
 -- Supported values: true, false
 Config.Standalone = false
