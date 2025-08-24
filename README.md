@@ -8,8 +8,8 @@ This isn’t just a small tweak — it’s a full UI rework with:
 ↔️ **Horizontal scrolling/switching** – smoother & cleaner than the usual vertical layout  
 
 ## 📸 Preview
-🎥 [Watch Preview on Streamable](https://streamable.com/yuj9in)
-
+🎥 [Watch Preview](https://r2.fivemanage.com/PEM73NUb284o5Jtrfftbn/Untitledvideo-MadewithClipchampedited.mp4)
+https://r2.fivemanage.com/PEM73NUb284o5Jtrfftbn/Untitledvideo-MadewithClipchampedited.mp4
 ## 📥 Installation
 1. Download the latest release from [Releases](./releases).  
 2. Drag & drop into your FiveM `resources/` folder.  
