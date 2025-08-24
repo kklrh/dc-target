@@ -9,6 +9,7 @@ This isn’t just a small tweak — it’s a full UI rework with:
 
 ## 📸 Preview
 🎥 [Watch Preview](https://r2.fivemanage.com/PEM73NUb284o5Jtrfftbn/Untitledvideo-MadewithClipchampedited.mp4)
+
 ## 📥 Installation
 1. Download the latest release from [Releases](./releases).  
 2. Drag & drop into your FiveM `resources/` folder.  
