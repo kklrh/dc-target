@@ -10,7 +10,7 @@ This isn’t just a small tweak — it’s a full UI rework with:
 ## 📸 Preview
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://streamable.com/yuj9in)
 
-<video src='https://streamable.com/yuj9in' width=180/>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/yuj9in?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 ## 📥 Installation
 1. Download the latest release from [Releases](./releases).  
