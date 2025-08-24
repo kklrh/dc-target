@@ -10,6 +10,8 @@ This isn’t just a small tweak — it’s a full UI rework with:
 ## 📸 Preview
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://streamable.com/yuj9in)
 
+<video src='https://streamable.com/yuj9in' width=180/>
+
 ## 📥 Installation
 1. Download the latest release from [Releases](./releases).  
 2. Drag & drop into your FiveM `resources/` folder.  
