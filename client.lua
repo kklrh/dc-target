@@ -278,7 +278,7 @@ local function EnableTarget()
 	screen.fov = GetFinalRenderedCamFov()
 	if Config.DrawSprite then DrawTarget() end
 
-	SendNUIMessage({ response = 'openTarget', data = {showLabel = Config.AlwaysShowLabel, currentColor = Config.PrimaryColor, enable3d = Config.Enable3dPerspective} })
+	SendNUIMessage({ response = 'openTarget', data = {enablescroll = Config.EnableScrollControl, enablearrows = Config.EnableArrowsConrtol, showLabel = Config.AlwaysShowLabel, currentColor = Config.PrimaryColor, enable3d = Config.Enable3dPerspective} })
 	CreateThread(function()
 		repeat
 			SetPauseMenuActive(false)

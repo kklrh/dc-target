@@ -19,8 +19,10 @@ Config = {}
 
 -- For icons you can use https://fontawesome.com/icons/ or https://react-icons.github.io/react-icons/icons/fa/ && https://react-icons.github.io/react-icons/icons/fa6/
 Config.Enable3dPerspective = false -- Enable/Disable 3d perspective
-Config.AlwaysShowLabel = false -- Always show label | false will make it only on hover
+Config.AlwaysShowLabel = true -- Always show label | false will make it only on hover
 Config.PrimaryColor = "#fb2c2cff"
+Config.EnableScrollControl = true -- Allow scroll between options using scrollwheel
+Config.EnableArrowsConrtol = true -- Allow scroll between options using arrow right/left
 
 -- It's possible to interact with entities through walls so this should be low
 Config.MaxDistance = 7.0

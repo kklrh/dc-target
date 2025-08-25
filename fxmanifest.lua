@@ -2,7 +2,11 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 use_experimental_fxv2_oal 'yes'
-version '5.5.0'
+
+version '1.1.0'
+name "dc-target"
+author 'Killerhunter. | klrh | deepcode'
+description 'qb-target redesign'
 
 ui_page 'web/index.html'
 -- ui_page 'http://localhost:5173/'
